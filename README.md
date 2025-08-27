@@ -31,24 +31,6 @@ The `tips` dataset contains information about restaurant bills and tips, includi
 - Summary statistics such as mean, median, min, max, and quartiles  
 - Helps understand the distribution and spread of numeric variables  
 
-### 3️⃣ Data Visualization
-
-- **📊 Histogram** – Distribution of `total_bill`
-  
-  ![Histogram](images/total_bill_histogram.png)
-
-- **📈 Scatter Plot** – Relationship between `total_bill` and `tip` segmented by `time`
-  
-  ![Scatter Plot]("C:\Users\Dikesh Chavhan\OneDrive\Desktop\TASK\TASKS\CODTECH(DATA SCIENCE)\Task_1 output\Figure_2.png")
-
-- **🟦 Heatmap** – Correlation matrix of numerical features
-  
-  ![Heatmap](images/correlation_heatmap.png)
-
-- **📦 Boxplot** – Identify outliers in `total_bill`
-  
-  ![Boxplot](images/total_bill_boxplot.png)
-
 ---
 
 ## 📈 Key Insights
