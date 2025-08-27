@@ -39,7 +39,7 @@ The `tips` dataset contains information about restaurant bills and tips, includi
 
 - **📈 Scatter Plot** – Relationship between `total_bill` and `tip` segmented by `time`
   
-  ![Scatter Plot](images/total_vs_tip.png)
+  ![Scatter Plot]("C:\Users\Dikesh Chavhan\OneDrive\Desktop\TASK\TASKS\CODTECH(DATA SCIENCE)\Task_1 output\Figure_2.png")
 
 - **🟦 Heatmap** – Correlation matrix of numerical features
   
